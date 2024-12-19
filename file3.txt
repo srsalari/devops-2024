@@ -1,3 +1,5 @@
 This is my 3ed file in the local 
 
 This is new line for feature 1 branch
+
+This is for feature 2 in a new branch
