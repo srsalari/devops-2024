@@ -1,3 +1,5 @@
 This is the 2nd file created by another developer remote
 
 This is new line for feature 1 branch
+
+This is for feature 2 in a new branch

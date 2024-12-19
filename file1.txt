@@ -1,3 +1,5 @@
 This is the first Git file at local
 
 This is new line for feature 1 branch
+
+This is for feature 2 in a new branch
